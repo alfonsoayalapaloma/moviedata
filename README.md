@@ -2,8 +2,8 @@
 
 Archivos para la actividad 2 de Tecnicas de Extraccion.
 Incluyen:
-netflix_titles.csv : Contenidos de netflix
-moviedb.sql : Base de datos moviedb con dos tablas con los contenidos de amazon y disney.
+*netflix_titles.csv : Contenidos de netflix
+*moviedb.sql : Base de datos moviedb con dos tablas con los contenidos de amazon y disney.
 
 
 Adicionalmente pueden consultar:
